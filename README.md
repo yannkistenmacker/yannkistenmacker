@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+![](https://komarev.com/ghpvc/?username=yannkistenmacker&color=006bed)
 
 ## About me
 
@@ -6,6 +6,15 @@
 - 🎓 Studying Software Engineering at Universidade Estácio de Sá.
 - 💼 Working as Site Reliability II at StoneCO.
 - 🌱 Learning more about Kubernetes.
+
+## Job
+
+**Site Reliability Engineer II** \
+[**Stone**](https://stone.com.br/) • Contract \
+Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+Projetos em destaque: [App](https://nubank.com.br/)
+<br/>
+<br/>
 
 ## My skills
 
@@ -37,12 +46,12 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+<a href="https://github.com/yannkistenmacker" title="Yann Profile">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yannkistenmacker&theme=dracula&show_icons=true" />
 </a>
 
-## Onde me encontrar
+## Where to find me
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/yannkistenmacker/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/yannkistenmacker/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:yannkistenmacker@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/yannkistenmacker))
