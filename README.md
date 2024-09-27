@@ -7,12 +7,12 @@
 - 💼 Working as Site Reliability II at StoneCO.
 - 🌱 Learning more about Kubernetes.
 
-## Job
-
+## Current Job
+[<img align="left" height="94px" width="94px" alt="Stone" src="https://logospng.org/download/stone-pagamentos/stone-4096.png"/>](https://stone.com.br/)
 **Site Reliability Engineer II** \
 [**Stone**](https://stone.com.br/) • Contract \
-Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Projetos em destaque: [App](https://nubank.com.br/)
+Linguagens & Tecnologias: `Kubernetes`, `Datadog`, `Splunk`, `OpsGenie`, `Python` \
+Projetos em destaque: [App](https://stone.com.br/)
 <br/>
 <br/>
 
