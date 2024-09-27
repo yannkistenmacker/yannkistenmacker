@@ -12,7 +12,6 @@
 **Site Reliability Engineer II** \
 [**Stone**](https://stone.com.br/) • Contract \
 Linguagens & Tecnologias: `Kubernetes`, `Datadog`, `Splunk`, `Prometheus`, `Grafana`, `Zabbix`, `Python`, `Terraform`, `Github`, `Opsgenie`, `PagerDuty` \
-Projetos em destaque: [App](https://stone.com.br/)
 <br/>
 <br/>
 
