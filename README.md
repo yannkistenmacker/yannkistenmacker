@@ -52,6 +52,7 @@ Projetos em destaque: [App](https://stone.com.br/)
  [Datadog - Foundation](https://learn.datadoghq.com/certificates/tvasv2be81),
  [Datadog - Site Reliability Engineer](https://learn.datadoghq.com/certificates/4tqzwjy7jc),
  [Datadog - Observability](https://learn.datadoghq.com/certificates/korc8qsaqy),
+ [Datadog - Fundamentals](https://www.credly.com/badges/b6e820fe-bffe-418e-baed-1f5fe6fa768f/linked_in_profile),
  
  
 
