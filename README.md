@@ -43,14 +43,14 @@ Linguagens & Tecnologias: `Kubernetes`, `Datadog`, `Splunk`, `Prometheus`, `Graf
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ## ☁️ Certifications:
- [Amazon Cloud Practitioner](https://www.credly.com/badges/f9cbc0eb-d021-4abd-95ac-829dd6479ab3/linked_in_profile),
- [Microsoft Azure Fundamentals](https://www.credly.com/badges/f9ce4540-5cfd-4e2d-a9b1-7bed900c578d/linked_in_profile),
- [Datadog Real User Monitoring](https://learn.datadoghq.com/certificates/p2nre8pkks),
- [Datadog - Developer](https://learn.datadoghq.com/certificates/rjlmqrxhak),
- [Datadog - Synthetic Tests](https://learn.datadoghq.com/certificates/merk8z1lbf),
- [Datadog - Foundation](https://learn.datadoghq.com/certificates/tvasv2be81),
- [Datadog - Site Reliability Engineer](https://learn.datadoghq.com/certificates/4tqzwjy7jc),
- [Datadog - Observability](https://learn.datadoghq.com/certificates/korc8qsaqy),
+ [Amazon Cloud Practitioner](https://www.credly.com/badges/f9cbc0eb-d021-4abd-95ac-829dd6479ab3/linked_in_profile),<br>
+ [Microsoft Azure Fundamentals](https://www.credly.com/badges/f9ce4540-5cfd-4e2d-a9b1-7bed900c578d/linked_in_profile),<br>
+ [Datadog Real User Monitoring](https://learn.datadoghq.com/certificates/p2nre8pkks),<br>
+ [Datadog - Developer](https://learn.datadoghq.com/certificates/rjlmqrxhak),<br>
+ [Datadog - Synthetic Tests](https://learn.datadoghq.com/certificates/merk8z1lbf),<br>
+ [Datadog - Foundation](https://learn.datadoghq.com/certificates/tvasv2be81),<br>
+ [Datadog - Site Reliability Engineer](https://learn.datadoghq.com/certificates/4tqzwjy7jc),<br>
+ [Datadog - Observability](https://learn.datadoghq.com/certificates/korc8qsaqy),<br>
  [Datadog - Fundamentals](https://www.credly.com/badges/b6e820fe-bffe-418e-baed-1f5fe6fa768f/linked_in_profile),
  
  
