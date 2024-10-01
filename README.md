@@ -11,7 +11,7 @@
 [<img align="left" height="94px" width="94px" alt="Stone" src="https://logospng.org/download/stone-pagamentos/stone-4096.png"/>](https://stone.com.br/)
 **Site Reliability Engineer II** \
 [**Stone**](https://stone.com.br/) • Contract \
-Linguagens & Tecnologias: `Kubernetes`, `Datadog`, `Splunk`, `Prometheus`, `Grafana`, `Zabbix`, `Python`, `Terraform`, `Github`, `Opsgenie`, `PagerDuty` \
+Techs: `Kubernetes`, `Datadog`, `Splunk`, `Prometheus`, `Grafana`, `Zabbix`, `Python`, `Terraform`, `Github`, `Opsgenie`, `PagerDuty` \
 <br/>
 <br/>
 
