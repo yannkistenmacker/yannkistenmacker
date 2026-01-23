@@ -11,7 +11,7 @@
 [<img align="left" height="94px" width="94px" alt="Stone" src="https://logospng.org/download/stone-pagamentos/stone-4096.png"/>](https://stone.com.br/)
 **Site Reliability Engineer II** \
 [**Stone**](https://stone.com.br/) • Contract \
-Techs: `Kubernetes`, `Datadog`, `Splunk`, `Prometheus`, `Grafana`, `Zabbix`, `Python`, `Terraform`, `Github`, `Opsgenie`, `PagerDuty` \
+Techs: `Kubernetes`,`ArgoCD`, `Datadog`, `Github`, `Prometheus`, `Grafana`, `Zabbix`, `Python`, `Terraform`, `Splunk`, `Opsgenie`, `PagerDuty` \
 <br/>
 <br/>
 
@@ -34,6 +34,7 @@ Techs: `Kubernetes`, `Datadog`, `Splunk`, `Prometheus`, `Grafana`, `Zabbix`, `Py
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -44,6 +45,7 @@ Techs: `Kubernetes`, `Datadog`, `Splunk`, `Prometheus`, `Grafana`, `Zabbix`, `Py
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ## ☁️ Certifications:
+ [Certified Kubernetes Administrator](https://www.credly.com/badges/f78dfbce-a2a0-4e5b-9dab-0e12fc238b40/public_url),<br>
  [Amazon Cloud Practitioner](https://www.credly.com/badges/f9cbc0eb-d021-4abd-95ac-829dd6479ab3/linked_in_profile),<br>
  [Microsoft Azure Fundamentals](https://www.credly.com/badges/f9ce4540-5cfd-4e2d-a9b1-7bed900c578d/linked_in_profile),<br>
  [Datadog Real User Monitoring](https://learn.datadoghq.com/certificates/p2nre8pkks),<br>
