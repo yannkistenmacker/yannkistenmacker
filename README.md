@@ -15,7 +15,7 @@ Techs: `Kubernetes`,`ArgoCD`, `Datadog`, `Github`, `Prometheus`, `Grafana`, `Zab
 <br/>
 <br/>
 
-## Current project
+## Typescript project
 Rio de Janeiro Subway Station (Metro Rio) [https://project-gfesk.vercel.app/](https://metro-rio.vercel.app/)
 
 ## My skills
