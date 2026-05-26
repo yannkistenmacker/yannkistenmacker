@@ -5,7 +5,7 @@
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Studying Software Engineering at Universidade Estácio de Sá.
 - 💼 Working as Site Reliability II at StoneCO.
-- 🌱 Learning more about Kubernetes.
+- 🌱 Learning more about Typescript.
 
 ## Current Job
 [<img align="left" height="94px" width="94px" alt="Stone" src="https://logospng.org/download/stone-pagamentos/stone-4096.png"/>](https://stone.com.br/)
