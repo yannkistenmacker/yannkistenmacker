@@ -61,9 +61,7 @@ Techs: `Kubernetes`,`ArgoCD`, `Datadog`, `Github`, `Prometheus`, `Grafana`, `Zab
 
 <br/>
 
-<a href="https://github.com/yannkistenmacker" title="Yann Profile">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yannkistenmacker&theme=dracula&show_icons=true" />
-</a>
+
 
 ## Where to find me
 
